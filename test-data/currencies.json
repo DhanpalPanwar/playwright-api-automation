@@ -1,0 +1,422 @@
+[
+    {
+        "code": "EUROC",
+        "precision": 6
+    },
+    {
+        "code": "XRP",
+        "precision": 8
+    },
+    {
+        "code": "CHZ",
+        "precision": 8
+    },
+    {
+        "code": "TRU",
+        "precision": 8
+    },
+    {
+        "code": "TRX",
+        "precision": 8
+    },
+    {
+        "code": "MIOTA",
+        "precision": 8
+    },
+    {
+        "code": "NEO",
+        "precision": 0
+    },
+    {
+        "code": "GUSD",
+        "precision": 8
+    },
+    {
+        "code": "AMP",
+        "precision": 8
+    },
+    {
+        "code": "STMX",
+        "precision": 8
+    },
+    {
+        "code": "UMA",
+        "precision": 8
+    },
+    {
+        "code": "RNDR",
+        "precision": 8
+    },
+    {
+        "code": "TUSD",
+        "precision": 8
+    },
+    {
+        "code": "LTC",
+        "precision": 8
+    },
+    {
+        "code": "ENJ",
+        "precision": 8
+    },
+    {
+        "code": "PAXG",
+        "precision": 8
+    },
+    {
+        "code": "OCEAN",
+        "precision": 8
+    },
+    {
+        "code": "CRV",
+        "precision": 8
+    },
+    {
+        "code": "VGX",
+        "precision": 8
+    },
+    {
+        "code": "ANT",
+        "precision": 8
+    },
+    {
+        "code": "DOGE",
+        "precision": 8
+    },
+    {
+        "code": "GRT",
+        "precision": 8
+    },
+    {
+        "code": "HBAR",
+        "precision": 8
+    },
+    {
+        "code": "PEPE",
+        "precision": 8
+    },
+    {
+        "code": "SRM",
+        "precision": 8
+    },
+    {
+        "code": "UNI",
+        "precision": 8
+    },
+    {
+        "code": "PERP",
+        "precision": 8
+    },
+    {
+        "code": "LINK",
+        "precision": 8
+    },
+    {
+        "code": "LDO",
+        "precision": 8
+    },
+    {
+        "code": "QNT",
+        "precision": 8
+    },
+    {
+        "code": "BEST",
+        "precision": 8
+    },
+    {
+        "code": "XLM",
+        "precision": 8
+    },
+    {
+        "code": "YFI",
+        "precision": 8
+    },
+    {
+        "code": "XTZ",
+        "precision": 8
+    },
+    {
+        "code": "KSM",
+        "precision": 8
+    },
+    {
+        "code": "EOS",
+        "precision": 8
+    },
+    {
+        "code": "FIL",
+        "precision": 8
+    },
+    {
+        "code": "AAVE",
+        "precision": 8
+    },
+    {
+        "code": "BAL",
+        "precision": 8
+    },
+    {
+        "code": "GALA",
+        "precision": 8
+    },
+    {
+        "code": "APE",
+        "precision": 8
+    },
+    {
+        "code": "BAT",
+        "precision": 8
+    },
+    {
+        "code": "YGG",
+        "precision": 8
+    },
+    {
+        "code": "AXS",
+        "precision": 8
+    },
+    {
+        "code": "XMR",
+        "precision": 8
+    },
+    {
+        "code": "CYBER",
+        "precision": 8
+    },
+    {
+        "code": "USD",
+        "precision": 2
+    },
+    {
+        "code": "APT",
+        "precision": 8
+    },
+    {
+        "code": "MASK",
+        "precision": 8
+    },
+    {
+        "code": "DYDX",
+        "precision": 8
+    },
+    {
+        "code": "CLV",
+        "precision": 8
+    },
+    {
+        "code": "WLD",
+        "precision": 8
+    },
+    {
+        "code": "AVAX",
+        "precision": 8
+    },
+    {
+        "code": "STX",
+        "precision": 8
+    },
+    {
+        "code": "RUNE",
+        "precision": 8
+    },
+    {
+        "code": "USDT",
+        "precision": 6
+    },
+    {
+        "code": "MATIC",
+        "precision": 8
+    },
+    {
+        "code": "ZRX",
+        "precision": 8
+    },
+    {
+        "code": "CHF",
+        "precision": 2
+    },
+    {
+        "code": "BSV",
+        "precision": 8
+    },
+    {
+        "code": "BCH",
+        "precision": 8
+    },
+    {
+        "code": "CEL",
+        "precision": 8
+    },
+    {
+        "code": "SUKU",
+        "precision": 8
+    },
+    {
+        "code": "OMG",
+        "precision": 8
+    },
+    {
+        "code": "DOT",
+        "precision": 8
+    },
+    {
+        "code": "MANA",
+        "precision": 8
+    },
+    {
+        "code": "COMP",
+        "precision": 8
+    },
+    {
+        "code": "BTC",
+        "precision": 8
+    },
+    {
+        "code": "ARB",
+        "precision": 8
+    },
+    {
+        "code": "TRY",
+        "precision": 2
+    },
+    {
+        "code": "KNC",
+        "precision": 8
+    },
+    {
+        "code": "EUR",
+        "precision": 2
+    },
+    {
+        "code": "FTM",
+        "precision": 8
+    },
+    {
+        "code": "ONE",
+        "precision": 8
+    },
+    {
+        "code": "1INCH",
+        "precision": 8
+    },
+    {
+        "code": "SHIB",
+        "precision": 8
+    },
+    {
+        "code": "BAND",
+        "precision": 8
+    },
+    {
+        "code": "NEAR",
+        "precision": 8
+    },
+    {
+        "code": "USDC",
+        "precision": 6
+    },
+    {
+        "code": "LPT",
+        "precision": 8
+    },
+    {
+        "code": "WBTC",
+        "precision": 8
+    },
+    {
+        "code": "BLUR",
+        "precision": 8
+    },
+    {
+        "code": "CELO",
+        "precision": 8
+    },
+    {
+        "code": "SNX",
+        "precision": 8
+    },
+    {
+        "code": "KAVA",
+        "precision": 8
+    },
+    {
+        "code": "SAND",
+        "precision": 8
+    },
+    {
+        "code": "SUSHI",
+        "precision": 8
+    },
+    {
+        "code": "ALGO",
+        "precision": 8
+    },
+    {
+        "code": "ATOM",
+        "precision": 8
+    },
+    {
+        "code": "DAI",
+        "precision": 8
+    },
+    {
+        "code": "SOL",
+        "precision": 8
+    },
+    {
+        "code": "ETC",
+        "precision": 8
+    },
+    {
+        "code": "MKR",
+        "precision": 8
+    },
+    {
+        "code": "GBP",
+        "precision": 2
+    },
+    {
+        "code": "BNB",
+        "precision": 8
+    },
+    {
+        "code": "FET",
+        "precision": 8
+    },
+    {
+        "code": "ZEC",
+        "precision": 8
+    },
+    {
+        "code": "ETH",
+        "precision": 8
+    },
+    {
+        "code": "REN",
+        "precision": 8
+    },
+    {
+        "code": "ADA",
+        "precision": 8
+    },
+    {
+        "code": "PAN",
+        "precision": 8
+    },
+    {
+        "code": "LRC",
+        "precision": 8
+    },
+    {
+        "code": "VET",
+        "precision": 8
+    },
+    {
+        "code": "BNT",
+        "precision": 8
+    },
+    {
+        "code": "XEM",
+        "precision": 6
+    }
+]

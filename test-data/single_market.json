@@ -1,0 +1,16 @@
+{
+    "instrument_code": "BTC_EUR",
+    "sequence": 2937957,
+    "time": "2023-10-11T19:43:12.736932Z",
+    "state": "ACTIVE",
+    "is_frozen": 0,
+    "quote_volume": "462998.6187403",
+    "base_volume": "18.10574",
+    "last_price": "25211.7",
+    "best_bid": "25239.3",
+    "best_ask": "25259.1",
+    "price_change": "-613.1",
+    "price_change_percentage": "-2.37",
+    "high": "25906.1",
+    "low": "25086.71"
+}

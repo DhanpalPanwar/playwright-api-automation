@@ -1,0 +1,22 @@
+{
+  "name": "playwright-api-automation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DhanpalPanwar/playwright-api-automation.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DhanpalPanwar/playwright-api-automation/issues"
+  },
+  "homepage": "https://github.com/DhanpalPanwar/playwright-api-automation#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.38.1",
+    "@types/node": "^20.8.4"
+  }
+}

@@ -1,0 +1,786 @@
+[
+    {
+        "state": "POST_ONLY",
+        "base": {
+            "code": "APE",
+            "precision": 8
+        },
+        "quote": {
+            "code": "EUR",
+            "precision": 2
+        },
+        "amount_precision": 4,
+        "market_precision": 3,
+        "min_size": "10.0"
+    },
+    {
+        "state": "CLOSED",
+        "base": {
+            "code": "ZRX",
+            "precision": 8
+        },
+        "quote": {
+            "code": "EUR",
+            "precision": 2
+        },
+        "amount_precision": 2,
+        "market_precision": 5,
+        "min_size": "10.0"
+    },
+    {
+        "state": "CLOSED",
+        "base": {
+            "code": "SUSHI",
+            "precision": 8
+        },
+        "quote": {
+            "code": "EUR",
+            "precision": 2
+        },
+        "amount_precision": 3,
+        "market_precision": 4,
+        "min_size": "10.0"
+    },
+    {
+        "state": "CLOSED",
+        "base": {
+            "code": "ETH",
+            "precision": 8
+        },
+        "quote": {
+            "code": "USDC",
+            "precision": 6
+        },
+        "amount_precision": 4,
+        "market_precision": 2,
+        "min_size": "10.0"
+    },
+    {
+        "state": "ACTIVE",
+        "base": {
+            "code": "LINK",
+            "precision": 8
+        },
+        "quote": {
+            "code": "EUR",
+            "precision": 2
+        },
+        "amount_precision": 2,
+        "market_precision": 5,
+        "min_size": "10.0"
+    },
+    {
+        "state": "CLOSED",
+        "base": {
+            "code": "1INCH",
+            "precision": 8
+        },
+        "quote": {
+            "code": "EUR",
+            "precision": 2
+        },
+        "amount_precision": 3,
+        "market_precision": 4,
+        "min_size": "10.0"
+    },
+    {
+        "state": "CLOSED",
+        "base": {
+            "code": "XTZ",
+            "precision": 8
+        },
+        "quote": {
+            "code": "EUR",
+            "precision": 2
+        },
+        "amount_precision": 3,
+        "market_precision": 4,
+        "min_size": "10.0"
+    },
+    {
+        "state": "ACTIVE",
+        "base": {
+            "code": "LTC",
+            "precision": 8
+        },
+        "quote": {
+            "code": "EUR",
+            "precision": 2
+        },
+        "amount_precision": 5,
+        "market_precision": 2,
+        "min_size": "10.0"
+    },
+    {
+        "state": "CLOSED",
+        "base": {
+            "code": "REN",
+            "precision": 8
+        },
+        "quote": {
+            "code": "EUR",
+            "precision": 2
+        },
+        "amount_precision": 2,
+        "market_precision": 5,
+        "min_size": "10.0"
+    },
+    {
+        "state": "ACTIVE",
+        "base": {
+            "code": "AAVE",
+            "precision": 8
+        },
+        "quote": {
+            "code": "EUR",
+            "precision": 2
+        },
+        "amount_precision": 5,
+        "market_precision": 2,
+        "min_size": "10.0"
+    },
+    {
+        "state": "ACTIVE",
+        "base": {
+            "code": "USDT",
+            "precision": 6
+        },
+        "quote": {
+            "code": "EUR",
+            "precision": 2
+        },
+        "amount_precision": 2,
+        "market_precision": 5,
+        "min_size": "10.0"
+    },
+    {
+        "state": "CLOSED",
+        "base": {
+            "code": "CRV",
+            "precision": 8
+        },
+        "quote": {
+            "code": "EUR",
+            "precision": 2
+        },
+        "amount_precision": 2,
+        "market_precision": 5,
+        "min_size": "10.0"
+    },
+    {
+        "state": "ACTIVE",
+        "base": {
+            "code": "BTC",
+            "precision": 8
+        },
+        "quote": {
+            "code": "EUR",
+            "precision": 2
+        },
+        "amount_precision": 5,
+        "market_precision": 2,
+        "min_size": "10.0"
+    },
+    {
+        "state": "ACTIVE",
+        "base": {
+            "code": "DOT",
+            "precision": 8
+        },
+        "quote": {
+            "code": "EUR",
+            "precision": 2
+        },
+        "amount_precision": 4,
+        "market_precision": 3,
+        "min_size": "10.0"
+    },
+    {
+        "state": "CLOSED",
+        "base": {
+            "code": "MIOTA",
+            "precision": 8
+        },
+        "quote": {
+            "code": "EUR",
+            "precision": 2
+        },
+        "amount_precision": 0,
+        "market_precision": 5,
+        "min_size": "10.0"
+    },
+    {
+        "state": "ACTIVE",
+        "base": {
+            "code": "XRP",
+            "precision": 8
+        },
+        "quote": {
+            "code": "EUROC",
+            "precision": 6
+        },
+        "amount_precision": 1,
+        "market_precision": 5,
+        "min_size": "10.0"
+    },
+    {
+        "state": "CLOSED",
+        "base": {
+            "code": "OCEAN",
+            "precision": 8
+        },
+        "quote": {
+            "code": "EUR",
+            "precision": 2
+        },
+        "amount_precision": 2,
+        "market_precision": 5,
+        "min_size": "10.0"
+    },
+    {
+        "state": "CLOSED",
+        "base": {
+            "code": "BCH",
+            "precision": 8
+        },
+        "quote": {
+            "code": "EUR",
+            "precision": 2
+        },
+        "amount_precision": 5,
+        "market_precision": 2,
+        "min_size": "10.0"
+    },
+    {
+        "state": "CLOSED",
+        "base": {
+            "code": "SNX",
+            "precision": 8
+        },
+        "quote": {
+            "code": "EUR",
+            "precision": 2
+        },
+        "amount_precision": 3,
+        "market_precision": 4,
+        "min_size": "10.0"
+    },
+    {
+        "state": "ACTIVE",
+        "base": {
+            "code": "USDC",
+            "precision": 6
+        },
+        "quote": {
+            "code": "EUR",
+            "precision": 2
+        },
+        "amount_precision": 2,
+        "market_precision": 5,
+        "min_size": "10.0"
+    },
+    {
+        "state": "ACTIVE",
+        "base": {
+            "code": "BEST",
+            "precision": 8
+        },
+        "quote": {
+            "code": "BTC",
+            "precision": 8
+        },
+        "amount_precision": 4,
+        "market_precision": 8,
+        "min_size": "0.00022"
+    },
+    {
+        "state": "ACTIVE",
+        "base": {
+            "code": "EUROC",
+            "precision": 6
+        },
+        "quote": {
+            "code": "USDC",
+            "precision": 6
+        },
+        "amount_precision": 3,
+        "market_precision": 5,
+        "min_size": "10.0"
+    },
+    {
+        "state": "CLOSED",
+        "base": {
+            "code": "ATOM",
+            "precision": 8
+        },
+        "quote": {
+            "code": "EUR",
+            "precision": 2
+        },
+        "amount_precision": 4,
+        "market_precision": 3,
+        "min_size": "10.0"
+    },
+    {
+        "state": "CLOSED",
+        "base": {
+            "code": "TRX",
+            "precision": 8
+        },
+        "quote": {
+            "code": "EUR",
+            "precision": 2
+        },
+        "amount_precision": 1,
+        "market_precision": 6,
+        "min_size": "10.0"
+    },
+    {
+        "state": "ACTIVE",
+        "base": {
+            "code": "EUROC",
+            "precision": 6
+        },
+        "quote": {
+            "code": "EUR",
+            "precision": 2
+        },
+        "amount_precision": 2,
+        "market_precision": 5,
+        "min_size": "10.0"
+    },
+    {
+        "state": "CLOSED",
+        "base": {
+            "code": "COMP",
+            "precision": 8
+        },
+        "quote": {
+            "code": "EUR",
+            "precision": 2
+        },
+        "amount_precision": 5,
+        "market_precision": 2,
+        "min_size": "10.0"
+    },
+    {
+        "state": "CLOSED",
+        "base": {
+            "code": "BAND",
+            "precision": 8
+        },
+        "quote": {
+            "code": "EUR",
+            "precision": 2
+        },
+        "amount_precision": 3,
+        "market_precision": 4,
+        "min_size": "10.0"
+    },
+    {
+        "state": "ACTIVE",
+        "base": {
+            "code": "BTC",
+            "precision": 8
+        },
+        "quote": {
+            "code": "CHF",
+            "precision": 2
+        },
+        "amount_precision": 5,
+        "market_precision": 2,
+        "min_size": "10.0"
+    },
+    {
+        "state": "ACTIVE",
+        "base": {
+            "code": "BTC",
+            "precision": 8
+        },
+        "quote": {
+            "code": "USDT",
+            "precision": 6
+        },
+        "amount_precision": 5,
+        "market_precision": 2,
+        "min_size": "10.0"
+    },
+    {
+        "state": "ACTIVE",
+        "base": {
+            "code": "BTC",
+            "precision": 8
+        },
+        "quote": {
+            "code": "EUROC",
+            "precision": 6
+        },
+        "amount_precision": 5,
+        "market_precision": 2,
+        "min_size": "10.0"
+    },
+    {
+        "state": "ACTIVE",
+        "base": {
+            "code": "ETH",
+            "precision": 8
+        },
+        "quote": {
+            "code": "EUR",
+            "precision": 2
+        },
+        "amount_precision": 4,
+        "market_precision": 2,
+        "min_size": "10.0"
+    },
+    {
+        "state": "CLOSED",
+        "base": {
+            "code": "VET",
+            "precision": 8
+        },
+        "quote": {
+            "code": "EUR",
+            "precision": 2
+        },
+        "amount_precision": 1,
+        "market_precision": 6,
+        "min_size": "10.0"
+    },
+    {
+        "state": "ACTIVE",
+        "base": {
+            "code": "GALA",
+            "precision": 8
+        },
+        "quote": {
+            "code": "EUR",
+            "precision": 2
+        },
+        "amount_precision": 1,
+        "market_precision": 6,
+        "min_size": "10.0"
+    },
+    {
+        "state": "ACTIVE",
+        "base": {
+            "code": "PAN",
+            "precision": 8
+        },
+        "quote": {
+            "code": "EUR",
+            "precision": 2
+        },
+        "amount_precision": 0,
+        "market_precision": 5,
+        "min_size": "10.0"
+    },
+    {
+        "state": "CLOSED",
+        "base": {
+            "code": "SAND",
+            "precision": 8
+        },
+        "quote": {
+            "code": "EUR",
+            "precision": 2
+        },
+        "amount_precision": 3,
+        "market_precision": 4,
+        "min_size": "10.0"
+    },
+    {
+        "state": "CLOSED",
+        "base": {
+            "code": "YFI",
+            "precision": 8
+        },
+        "quote": {
+            "code": "EUR",
+            "precision": 2
+        },
+        "amount_precision": 5,
+        "market_precision": 2,
+        "min_size": "10.0"
+    },
+    {
+        "state": "ACTIVE",
+        "base": {
+            "code": "ADA",
+            "precision": 8
+        },
+        "quote": {
+            "code": "EUR",
+            "precision": 2
+        },
+        "amount_precision": 3,
+        "market_precision": 4,
+        "min_size": "10.0"
+    },
+    {
+        "state": "ACTIVE",
+        "base": {
+            "code": "SHIB",
+            "precision": 8
+        },
+        "quote": {
+            "code": "EUR",
+            "precision": 2
+        },
+        "amount_precision": 0,
+        "market_precision": 8,
+        "min_size": "10.0"
+    },
+    {
+        "state": "ACTIVE",
+        "base": {
+            "code": "SOL",
+            "precision": 8
+        },
+        "quote": {
+            "code": "EUR",
+            "precision": 2
+        },
+        "amount_precision": 5,
+        "market_precision": 2,
+        "min_size": "10.0"
+    },
+    {
+        "state": "ACTIVE",
+        "base": {
+            "code": "ETH",
+            "precision": 8
+        },
+        "quote": {
+            "code": "CHF",
+            "precision": 2
+        },
+        "amount_precision": 4,
+        "market_precision": 2,
+        "min_size": "10.0"
+    },
+    {
+        "state": "CLOSED",
+        "base": {
+            "code": "KNC",
+            "precision": 8
+        },
+        "quote": {
+            "code": "EUR",
+            "precision": 2
+        },
+        "amount_precision": 3,
+        "market_precision": 4,
+        "min_size": "10.0"
+    },
+    {
+        "state": "CLOSED",
+        "base": {
+            "code": "ZEC",
+            "precision": 8
+        },
+        "quote": {
+            "code": "EUR",
+            "precision": 2
+        },
+        "amount_precision": 4,
+        "market_precision": 3,
+        "min_size": "10.0"
+    },
+    {
+        "state": "ACTIVE",
+        "base": {
+            "code": "XRP",
+            "precision": 8
+        },
+        "quote": {
+            "code": "CHF",
+            "precision": 2
+        },
+        "amount_precision": 0,
+        "market_precision": 5,
+        "min_size": "10.0"
+    },
+    {
+        "state": "ACTIVE",
+        "base": {
+            "code": "BTC",
+            "precision": 8
+        },
+        "quote": {
+            "code": "GBP",
+            "precision": 2
+        },
+        "amount_precision": 5,
+        "market_precision": 2,
+        "min_size": "10.0"
+    },
+    {
+        "state": "ACTIVE",
+        "base": {
+            "code": "ANT",
+            "precision": 8
+        },
+        "quote": {
+            "code": "EUR",
+            "precision": 2
+        },
+        "amount_precision": 3,
+        "market_precision": 4,
+        "min_size": "10.0"
+    },
+    {
+        "state": "ACTIVE",
+        "base": {
+            "code": "AVAX",
+            "precision": 8
+        },
+        "quote": {
+            "code": "EUR",
+            "precision": 2
+        },
+        "amount_precision": 4,
+        "market_precision": 3,
+        "min_size": "10.0"
+    },
+    {
+        "state": "ACTIVE",
+        "base": {
+            "code": "BEST",
+            "precision": 8
+        },
+        "quote": {
+            "code": "EUR",
+            "precision": 2
+        },
+        "amount_precision": 0,
+        "market_precision": 5,
+        "min_size": "10.0"
+    },
+    {
+        "state": "ACTIVE",
+        "base": {
+            "code": "DOGE",
+            "precision": 8
+        },
+        "quote": {
+            "code": "EUR",
+            "precision": 2
+        },
+        "amount_precision": 0,
+        "market_precision": 5,
+        "min_size": "10.0"
+    },
+    {
+        "state": "ACTIVE",
+        "base": {
+            "code": "GRT",
+            "precision": 8
+        },
+        "quote": {
+            "code": "EUR",
+            "precision": 2
+        },
+        "amount_precision": 4,
+        "market_precision": 3,
+        "min_size": "10.0"
+    },
+    {
+        "state": "CLOSED",
+        "base": {
+            "code": "CHZ",
+            "precision": 8
+        },
+        "quote": {
+            "code": "EUR",
+            "precision": 2
+        },
+        "amount_precision": 2,
+        "market_precision": 5,
+        "min_size": "10.0"
+    },
+    {
+        "state": "ACTIVE",
+        "base": {
+            "code": "BTC",
+            "precision": 8
+        },
+        "quote": {
+            "code": "USDC",
+            "precision": 6
+        },
+        "amount_precision": 5,
+        "market_precision": 2,
+        "min_size": "10.0"
+    },
+    {
+        "state": "ACTIVE",
+        "base": {
+            "code": "MANA",
+            "precision": 8
+        },
+        "quote": {
+            "code": "EUR",
+            "precision": 2
+        },
+        "amount_precision": 3,
+        "market_precision": 4,
+        "min_size": "10.0"
+    },
+    {
+        "state": "CLOSED",
+        "base": {
+            "code": "UNI",
+            "precision": 8
+        },
+        "quote": {
+            "code": "EUR",
+            "precision": 2
+        },
+        "amount_precision": 4,
+        "market_precision": 3,
+        "min_size": "10.0"
+    },
+    {
+        "state": "CLOSED",
+        "base": {
+            "code": "XLM",
+            "precision": 8
+        },
+        "quote": {
+            "code": "EUR",
+            "precision": 2
+        },
+        "amount_precision": 1,
+        "market_precision": 5,
+        "min_size": "10.0"
+    },
+    {
+        "state": "CLOSED",
+        "base": {
+            "code": "ETH",
+            "precision": 8
+        },
+        "quote": {
+            "code": "BTC",
+            "precision": 8
+        },
+        "amount_precision": 4,
+        "market_precision": 6,
+        "min_size": "0.00022"
+    },
+    {
+        "state": "ACTIVE",
+        "base": {
+            "code": "XRP",
+            "precision": 8
+        },
+        "quote": {
+            "code": "EUR",
+            "precision": 2
+        },
+        "amount_precision": 1,
+        "market_precision": 5,
+        "min_size": "10.0"
+    }
+]
