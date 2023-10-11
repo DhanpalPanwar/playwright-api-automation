@@ -1,7 +1,6 @@
 import { test, expect } from '@playwright/test';
 /**imprt the instruments json the response will be validated against this data
  */
-
 const instrument_code = "BTC_EUR";
 
 test('Get statistics on a single market.', async ({ request }) => {

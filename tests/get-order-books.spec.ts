@@ -17,7 +17,7 @@ test(`Get given instrument's order book.`, async ({ request }) => {
     expect(response.instrument_code).toBe("BTC_EUR");
     /**since depth is 2, hence there will be 2 bids/ask */
     expect(response.bids).toHaveLength(2);
-    expect(response.bids).toHaveLength(2);
+    expect(response.asks).toHaveLength(2);
 
 });
 
